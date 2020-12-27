@@ -1,0 +1,20 @@
+body{
+    background: url(https://res.cloudinary.com/dsiiorq2l/image/upload/v1609084846/Donation-Thank-You_ri6nff.png);
+    background-size: cover;
+}
+button{
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+    padding: 10px; 
+    border: none; 
+    border-radius: 5px; 
+    font-weight: bold;
+    width: 150px;
+    height: 100px; 
+    font-size: larger;
+
+}
